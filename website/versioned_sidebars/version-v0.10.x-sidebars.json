@@ -17,7 +17,13 @@
       "type": "category",
       "label": "Features",
       "collapsed": false,
-      "items": ["github-action", "custom-address", "output", "scanner-plugins"]
+      "items": [
+        "github-action",
+        "custom-address",
+        "output",
+        "scanner-plugins",
+        "Multi-Platform-Patching"
+      ]
     },
     {
       "type": "category",
